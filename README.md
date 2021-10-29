@@ -2,7 +2,7 @@
 
 My name is Pronner, I'm 14 years old and I'm interested in software development & game development and mobile development.\
 I'm from **Syria** and I'm currently in 9th grade. Currently working on 15+ projects, not working for anyone though.\
-I currently know multiple languages, such as **VB**, **C#**, **C++**, **HTML**, **Lua**, **batch**, **Python**. Looking forward to learn more languages for games and mobile apps in the future. My dream is to prove everything that's "impossible" as something "possible" and inspire.
+I currently know multiple languages, such as **VB**, **C#**, **C++**, **HTML**, **Lua**, **batch**, **Python**, **I.S.**. Looking forward to learn more languages for games and mobile apps in the future. My dream is to prove everything that's "impossible" as something "possible" and inspire.
 
 Looking forward to own a company or become a developer working for someone.
 
