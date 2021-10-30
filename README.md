@@ -7,8 +7,8 @@ I currently know multiple languages, such as **VB**, **C#**, **C++**, **HTML**, 
 Looking forward to own a company or become a developer working for someone.
 
 Want to contact me? via:\
-<a href="www.discord.com/app" alt="Discord"><img src="https://img.shields.io/badge/Discord-Pronner%236197-blueviolet"></a>\
-<a href="www.instagram.com/notpronner" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-%40notpronner-ff69b4"></a>\
-<a href="www.twitter.com/notpronner" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-%40notpronner-blue"></a>
+<a href="https://www.discord.com/app" alt="Discord"><img src="https://img.shields.io/badge/Discord-Pronner%236197-blueviolet"></a>\
+<a href="https://www.instagram.com/notpronner" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-%40notpronner-ff69b4"></a>\
+<a href="https://www.twitter.com/notpronner" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-%40notpronner-blue"></a>
 
 Have an amazing day.
