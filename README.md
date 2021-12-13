@@ -43,6 +43,6 @@ Hey, I'm Pronner! I'm a 14 year old programmer coming from Syria. I tend to deve
 • Twitter: [**@NotPronner**](https://twitter.com/@NotPronner)
 • Instagram: [**@NotPronner**](https://instagram.com/NotPronner)
 • Reddit: [**@NotPronner**](https://www.reddit.com/user/NotPronner)
-• Mail: [**pronner@pronnerstudios.com](mailto: pronner@pronnerstudios.com)
+• Mail: [**pronner@pronnerstudios.com**](mailto: pronner@pronnerstudios.com)
 
 Have an amazing day.
