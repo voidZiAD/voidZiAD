@@ -39,17 +39,11 @@ Hey, I'm Pronner! I'm a 14 year old programmer coming from Syria. I tend to deve
 
 ### Ways to contact me
 
-• Discord: **Pronner#0001**
-• Twitter: [**@NotPronner**](https://twitter.com/@NotPronner)\n
-• Instagram: [**@NotPronner**](https://instagram.com/NotPronner)\n
-• Reddit: [**@NotPronner**](https://www.reddit.com/user/NotPronner)\n
-• Mail: [**pronner@pronnerstudios.com**](mailto: pronner@pronnerstudios.com)\n
-
 <p dir="auto">• Discord: **Pronner#0001**<br>
-• Twitter: <a href="https://twitter.com/NotPronner" rel="nofollow">@Mempler</a> <br>
-• Twitch:  <a href="https://twitch.tv/NotPronner" rel="nofollow">Mempler</a> <br>
-• Instagram: <a href="https://instagram.com/NotPronner" rel="nofollow">Mempler</a> <br>
-• Reddit: <a href="https://www.reddit.com/user/NotPronner" rel="nofollow">Mempler</a> <br>
+• Twitter: <a href="https://twitter.com/NotPronner" rel="nofollow">@NotPronner</a> <br>
+• Twitch:  <a href="https://twitch.tv/NotPronner" rel="nofollow">@NotPronner</a> <br>
+• Instagram: <a href="https://instagram.com/NotPronner" rel="nofollow">@NotPronner</a> <br>
+• Reddit: <a href="https://www.reddit.com/user/NotPronner" rel="nofollow">@NotPronner</a> <br>
 • Mail:   <a href="mailto:pronner@pronnerstudios.com">pronner@pronnerstudios.com</a></p>
 
 Have an amazing day.
