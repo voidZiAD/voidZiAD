@@ -39,7 +39,7 @@ Hey, I'm Pronner! I'm a 14 year old programmer coming from Syria. I tend to deve
 
 ### Ways to contact me
 
-<p dir="auto">• Discord: **Pronner#0001**<br>
+<p dir="auto">• Discord: Pronner#0001<br>
 • Twitter: <a href="https://twitter.com/NotPronner" rel="nofollow">@NotPronner</a> <br>
 • Twitch:  <a href="https://twitch.tv/NotPronner" rel="nofollow">@NotPronner</a> <br>
 • Instagram: <a href="https://instagram.com/NotPronner" rel="nofollow">@NotPronner</a> <br>
