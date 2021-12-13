@@ -1,14 +1,48 @@
 ## Hi there
 
-My name is Pronner, I'm 14 years old and I'm interested in software development & game development and mobile development.\
-I'm from **Syria** and I'm currently in 9th grade. Currently working on 15+ projects, not working for anyone though.\
-I currently know multiple languages, such as **VB**, **C#**, **C++**, **HTML**, **Lua**, **batch**, **Python**, **I.S**. Looking forward to learn more languages for games and mobile apps in the future. My dream is to prove everything that's "impossible" as something "possible" and inspire.
+Hey, I'm Pronner! I'm a 14 year old programmer coming from Syria. I tend to develop softwares or services in multiple languages. I currently work for myself & I manage **Pronner Studios LLC**.
 
-Looking forward to own a company or become a developer working for someone.
+## Some cool stuff
 
-Want to contact me? via:\
-<a href="https://www.discord.com/app" alt="Discord"><img src="https://img.shields.io/badge/Discord-Pronner%236197-blueviolet"></a>\
-<a href="https://www.instagram.com/notpronner" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-%40notpronner-ff69b4"></a>\
-<a href="https://www.twitter.com/notpronner" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-%40notpronner-blue"></a>
+### Languages
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//csharp.svg" width="26" title="" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cpp.svg" width="26" title="" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg" width="26" title="" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//html5.svg" width="26" title="" style="max-width: 100%;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="26" title="" style="max-width: 100%;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" width="26" title="" style="max-width: 100%;">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/batch-logo-png-transparent.png" width="26" title="" style="max-width: 100%;">
+  <img src="https://media.discordapp.net/attachments/916226674071339010/920005621078695936/ipiccy_image_2.png?width=408&height=408" width="26" title="" style="max-width: 100%;">
+</p>
+
+### IDEs'
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg" width="26" title="" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg" width="26" title="" style="max-width: 100%;">
+  <img src="https://media.discordapp.net/attachments/916226674071339010/920006107085287504/Vorsa.png?width=408&height=408" width="26" title="" style="max-width: 100%;">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/icon-dotpeek-logo-png-transparent.png" width="26" title="" style="max-width: 100%;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Text-x-python.svg/1200px-Text-x-python.svg.png" width="26" title="" style="max-width: 100%;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="26" title="" style="max-width: 100%;">
+</p>
+
+### Tools n' stuff
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//discord.svg" width="26" title="" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//powershell.svg" width="26" title="" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//git.svg" width="26" title="" style="max-width: 100%;">
+  <img src="https://media.discordapp.net/attachments/916226674071339010/920007707874967642/User.png?width=408&height=408" width="26" title="" style="max-width: 100%;">
+</p>
+
+### Ways to contact me
+
+• Discord: **Pronner#0001**
+• Twitter: [**@NotPronner**](https://twitter.com/@NotPronner)
+• Instagram: [**@NotPronner**](https://instagram.com/NotPronner)
+• Reddit: [**@NotPronner**](https://www.reddit.com/user/NotPronner)
+• Mail: [**pronner@pronnerstudios.com](mailto: pronner@pronnerstudios.com)
 
 Have an amazing day.
