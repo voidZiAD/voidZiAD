@@ -45,4 +45,11 @@ Hey, I'm Pronner! I'm a 14 year old programmer coming from Syria. I tend to deve
 • Reddit: [**@NotPronner**](https://www.reddit.com/user/NotPronner)\n
 • Mail: [**pronner@pronnerstudios.com**](mailto: pronner@pronnerstudios.com)\n
 
+<p dir="auto">• Discord: **Pronner#0001**<br>
+• Twitter: <a href="https://twitter.com/NotPronner" rel="nofollow">@Mempler</a> <br>
+• Twitch:  <a href="https://twitch.tv/NotPronner" rel="nofollow">Mempler</a> <br>
+• Instagram: <a href="https://instagram.com/NotPronner" rel="nofollow">Mempler</a> <br>
+• Reddit: <a href="https://www.reddit.com/user/NotPronner" rel="nofollow">Mempler</a> <br>
+• Mail:   <a href="mailto:pronner@pronnerstudios.com">pronner@pronnerstudios.com</a></p>
+
 Have an amazing day.
