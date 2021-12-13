@@ -9,6 +9,7 @@ Hey, I'm Pronner! I'm a 14 year old programmer coming from Syria. I tend to deve
 <p align="left">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//csharp.svg" width="26" title="" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cpp.svg" width="26" title="" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//c.svg" width="26" title="" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg" width="26" title="" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//html5.svg" width="26" title="" style="max-width: 100%;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="26" title="" style="max-width: 100%;">
