@@ -1,4 +1,4 @@
-# Hi there
+## Hi there
 
 My name is Pronner, I'm 14 years old and I'm interested in software development & game development and mobile development.\
 I'm from **Syria** and I'm currently in 9th grade. Currently working on 15+ projects, not working for anyone though.\
