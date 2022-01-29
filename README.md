@@ -40,6 +40,11 @@ Hey, I'm Pronner! I'm a 14 year old programmer coming from Syria. I tend to deve
   <img src="https://media.discordapp.net/attachments/916226674071339010/920007707874967642/User.png?width=408&height=408" width="26" title="" style="max-width: 100%;">
 </p>
 
+
+### Randoms
+
+[![Pronner's Github Statistics](https://github-readme-stats.vercel.app/api?username=Pronner)](https://github.com/pronner/github-readme-stats)
+
 ### Ways to contact me
 
 <p dir="auto">• Discord: Pronner#0001<br>
