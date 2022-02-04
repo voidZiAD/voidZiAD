@@ -22,6 +22,8 @@ Hey, I'm Pronner! I'm a 14 year old programmer coming from Syria. I tend to deve
   <img src="https://www.pinclipart.com/picdir/big/53-534873_vector-steam-java-developer-java-icon-png-clipart.png" width="26" title="" style="max-width: 100%;">
   <img src="https://apprecs.org/gp/images/app-icons/300/86/com.sumitgouthaman.brainfuck_android.jpg" width="26" title="" style="max-width: 100%;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="26" title="" style="max-width: 100%;">
+  <img src="https://seeklogo.com/images/S/swift-logo-F41F53A22D-seeklogo.com.png" width="26" title="" style="max-width: 100%;">
+  <img src="https://seeklogo.com/images/S/swift-logo-F41F53A22D-seeklogo.com.png" width="26" title="" style="max-width: 100%;">
 </p>
 
 ### IDEs'
