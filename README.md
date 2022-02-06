@@ -51,7 +51,7 @@ Hey, I'm Pronner! I'm a 14 year old programmer coming from Syria. I tend to deve
 
 [![Pronner's Github Statistics](https://github-readme-stats.vercel.app/api?username=Pronner)](https://github.com/pronner/github-readme-stats)\
 \
-\![](https://komarev.com/ghpvc/?username=Pronner&color=blue&style=flat-square)
+\ ![](https://komarev.com/ghpvc/?username=Pronner&color=blue&style=flat-square)
 
 ### Ways to contact me
 
