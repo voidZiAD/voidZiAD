@@ -48,7 +48,8 @@ Hey, I'm Pronner! I'm a 14 year old programmer coming from Syria. I tend to deve
 
 
 ### Randoms
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Sometimes%20things%20can%20be%20easier%20than%20you%20think.)](https://discord.com/users/753278347697455174)
+\
 [![Pronner's Github Statistics](https://github-readme-stats.vercel.app/api?username=Pronner)](https://github.com/pronner/github-readme-stats)\
 \
 ![](https://komarev.com/ghpvc/?username=Pronner&color=blue&style=flat-square)
