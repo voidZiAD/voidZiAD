@@ -48,7 +48,7 @@ Hey, I'm Pronner! I'm a 14 year old programmer coming from Syria. I tend to deve
 
 
 ### Randoms
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<753278347697455174>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=753278347697455174)
 \
 [![Pronner's Github Statistics](https://github-readme-stats.vercel.app/api?username=Pronner)](https://github.com/pronner/github-readme-stats)\
 \
