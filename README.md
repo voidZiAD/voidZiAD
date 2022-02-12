@@ -1,4 +1,4 @@
-## Hi there
+## 👋 Hi there
 
 Hey, I'm Pronner! I'm a 14 year old programmer coming from Syria. I tend to develop softwares or services in multiple languages. I currently work for myself & I manage **Pronner Studios LLC**.
 
