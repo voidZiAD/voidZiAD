@@ -48,9 +48,9 @@ Hey, I'm Pronner! I'm a 14 year old programmer coming from Syria. I tend to deve
 
 
 ### Randoms
-[![Pronner's Github Statistics](https://github-readme-stats.vercel.app/api?username=Pronner&theme=gradient&show_icons=true)](https://github.com/pronner/github-readme-stats)\
+[![Pronner's Github Statistics](https://github-readme-stats.vercel.app/api?username=Pronner&theme=radical&show_icons=true)](https://github.com/pronner/github-readme-stats)\
 \
-[![Pronner's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pronner&theme=gradient&show_icons=true&layout=compact)](https://github.com/Pronner/github-readme-stats)\
+[![Pronner's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pronner&theme=radical&show_icons=true&layout=compact)](https://github.com/Pronner/github-readme-stats)\
 \
 ![](https://komarev.com/ghpvc/?username=Pronner&color=blue&style=flat-square)
 
