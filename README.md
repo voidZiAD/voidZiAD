@@ -2,9 +2,9 @@
 
 Hey, I'm Pronner! I'm a 15 year old programmer coming from Syria. I tend to develop softwares or services in multiple languages. I currently work for myself & I manage **Pronner Studios LLC**.
 
-## Some cool stuff I know/have or use
+## Information
 
-### Languages
+### Languages I'm familiar with or Use
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//csharp.svg" width="26" title="" style="max-width: 100%;">
@@ -26,7 +26,7 @@ Hey, I'm Pronner! I'm a 15 year old programmer coming from Syria. I tend to deve
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="26" title="" style="max-width: 100%;">
 </p>
 
-### IDEs'
+### IDEs' I use
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg" width="26" title="" style="max-width: 100%;">
@@ -37,13 +37,13 @@ Hey, I'm Pronner! I'm a 15 year old programmer coming from Syria. I tend to deve
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="26" title="" style="max-width: 100%;">
 </p>
 
-### Tools n' stuff
+### Tools and other that I use
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//discord.svg" width="26" title="" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//powershell.svg" width="26" title="" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//git.svg" width="26" title="" style="max-width: 100%;">
-  <img src="https://media.discordapp.net/attachments/916226674071339010/920007707874967642/User.png?width=408&height=408" width="26" title="" style="max-width: 100%;">
+  <img src="https://media.discordapp.net/attachments/916226674071339010/949289108776308736/OBFUSCRIPT.png?width=408&height=408" width="26" title="" style="max-width: 100%;">
 </p>
 
 
