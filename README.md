@@ -4,7 +4,7 @@ Hey, I'm Pronner! I'm a 15 year old programmer coming from Syria. I tend to deve
 
 ## Information
 
-### Languages I'm familiar with or Use
+### Languages I'm familiar with or Use—and no I do not just use "if" and "else if" and then call myself a prodigy.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//csharp.svg" width="26" title="" style="max-width: 100%;">
