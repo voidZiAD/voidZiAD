@@ -10,7 +10,7 @@ Hey, I'm Pronner! I'm a 15 year old programmer coming from Syria. I tend to deve
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//csharp.svg" width="26" title="" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cpp.svg" width="26" title="" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//c.svg" width="26" title="" style="max-width: 100%;">
-  <img src="https://media.discordapp.net/attachments/916226674071339010/949982043800993832/CPers.png?width=408&height=408" width="26" title="" style="max-width: 100%;">
+  <img src="https://media.discordapp.net/attachments/916226674071339010/949982043800993832/CPers.png?width=408&height=408" width="40" title="" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg" width="26" title="" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//html5.svg" width="26" title="" style="max-width: 100%;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="26" title="" style="max-width: 100%;">
