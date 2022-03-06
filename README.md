@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-Hey, I'm Pronner! I'm a 15 year old programmer coming from Syria. I tend to develop softwares or services in multiple languages. I currently work for myself & I manage **Pronner Studios LLC** and **AIPA LLC** also known as **AIPA Studios**.
+Hey, I'm Pronner! I'm a 15 year old programmer coming from Syria. I tend to develop softwares or services in multiple languages. I currently work for myself & I manage **AIPA LLC**.
 
 ## Information
 
