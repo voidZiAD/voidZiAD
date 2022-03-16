@@ -54,7 +54,6 @@ Hey, I'm Pronner! I'm a 15 year old programmer. I tend to develop softwares or s
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//discord.svg" width="26" title="" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//powershell.svg" width="26" title="" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//git.svg" width="26" title="" style="max-width: 100%;">
-  <img src="https://media.discordapp.net/attachments/916226674071339010/949289108776308736/OBFUSCRIPT.png?width=408&height=408" width="26" title="" style="max-width: 100%;">
 </p>
 
 
