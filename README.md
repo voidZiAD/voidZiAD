@@ -42,7 +42,6 @@ Hey, I'm Pronner! I'm a 15 year old programmer. I tend to develop softwares or s
 <p align="left">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg" width="26" title="" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg" width="26" title="" style="max-width: 100%;">
-  <img src="https://media.discordapp.net/attachments/916226674071339010/920006107085287504/Vorsa.png?width=408&height=408" width="26" title="" style="max-width: 100%;">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/icon-dotpeek-logo-png-transparent.png" width="26" title="" style="max-width: 100%;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Text-x-python.svg/1200px-Text-x-python.svg.png" width="26" title="" style="max-width: 100%;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="26" title="" style="max-width: 100%;">
