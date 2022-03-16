@@ -35,7 +35,7 @@ Hey, I'm Pronner! I'm a 15 year old programmer. I tend to develop softwares or s
   <img src="https://media.discordapp.net/attachments/916226674071339010/920005621078695936/ipiccy_image_2.png?width=408&height=408" width="26" title="" style="max-width: 100%;">
   <img src="https://media.discordapp.net/attachments/916226674071339010/950718476035711017/CPress1.png?width=408&height=408" width="26" title="" style="max-width: 100%;">
   <img src="https://media.discordapp.net/attachments/916226674071339010/950022128055517184/image_1.png" width="26" title="" style="max-width: 100%;">
-</p>
+</p> -- All of them are currently private and under development.
 
 ### IDEs' I use
 
