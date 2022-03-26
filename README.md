@@ -1,4 +1,4 @@
-## 👋 Hi there - <a href='https://ko-fi.com/supportkofi' target='Pronner'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee' />
+## 👋 Hi there
 
 Hey, I'm Pronner! I'm a 15 year old programmer. I tend to develop softwares or services in multiple languages. I currently work for myself & I manage **AIPA LLC**.
 
@@ -34,6 +34,8 @@ Hey, I'm Pronner! I'm a 15 year old programmer. I tend to develop softwares or s
 [![Pronner's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pronner&theme=radical&show_icons=true&layout=compact)](https://github.com/Pronner/github-readme-stats)\
 \
 ![](https://komarev.com/ghpvc/?username=Pronner&color=blue&style=flat-square)
+
+<a href='https://ko-fi.com/Pronner' target='Pronner'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee' />
 
 ### Ways to contact me
 
