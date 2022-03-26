@@ -1,4 +1,4 @@
-## 👋 Hi there
+## 👋 Hi there - <a href='https://ko-fi.com/supportkofi' target='Pronner'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee' />
 
 Hey, I'm Pronner! I'm a 15 year old programmer. I tend to develop softwares or services in multiple languages. I currently work for myself & I manage **AIPA LLC**.
 
@@ -27,34 +27,8 @@ Hey, I'm Pronner! I'm a 15 year old programmer. I tend to develop softwares or s
   <img src="https://media.discordapp.net/attachments/916226674071339010/950022128055517184/image_1.png" width="26" title="" style="max-width: 100%;">
 </p>
 
-### Languages I've created (Some are unavailable)
 
-
-<p align="left">
-  <img src="https://media.discordapp.net/attachments/916226674071339010/920005621078695936/ipiccy_image_2.png?width=408&height=408" width="26" title="" style="max-width: 100%;">
-  <img src="https://media.discordapp.net/attachments/916226674071339010/950022128055517184/image_1.png" width="26" title="" style="max-width: 100%;">
-</p> -- All of them are currently private and under development.
-
-### IDEs' I use
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg" width="26" title="" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg" width="26" title="" style="max-width: 100%;">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/icon-dotpeek-logo-png-transparent.png" width="26" title="" style="max-width: 100%;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Text-x-python.svg/1200px-Text-x-python.svg.png" width="26" title="" style="max-width: 100%;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="26" title="" style="max-width: 100%;">
-</p>
-
-### Tools and other that I use
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//discord.svg" width="26" title="" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//powershell.svg" width="26" title="" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//git.svg" width="26" title="" style="max-width: 100%;">
-</p>
-
-
-### Randoms
+### Idk
 [![Pronner's Github Statistics](https://github-readme-stats.vercel.app/api?username=Pronner&theme=radical&show_icons=true)](https://github.com/pronner/github-readme-stats)\
 \
 [![Pronner's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pronner&theme=radical&show_icons=true&layout=compact)](https://github.com/Pronner/github-readme-stats)\
