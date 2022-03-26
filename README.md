@@ -35,7 +35,7 @@ Hey, I'm Pronner! I'm a 15 year old programmer. I tend to develop softwares or s
 \
 ![](https://komarev.com/ghpvc/?username=Pronner&color=blue&style=flat-square)
 
-<a href='https://ko-fi.com/Pronner' target='Pronner'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee' />
+<a href='https://ko-fi.com/Pronner' target='Pronner'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee' /a>
 
 ### Ways to contact me
 
