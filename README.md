@@ -10,6 +10,7 @@ full stack C# && VB dev, front-end back-end.
 • Python
 • Kotlin
 • HTML
+• and more 
 •
 
 however I've only used C# on github.
