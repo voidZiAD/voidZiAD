@@ -1,6 +1,27 @@
-## 👋 Hi there
+## friendly neighborhood dev
 
-Hey, I'm Pronner! I'm a full stack C# developer, AI & API developer. I tend to develop softwares or services in multiple languages. I currently work for myself & I manage **AIPA LLC**.
+full stack C# && VB dev, front-end back-end.
+
+## languages
+
+• C#
+• C++
+• VB
+• Python
+• Kotlin
+• HTML
+
+however I've only used C# on github.
+
+## tools and stuff
+
+• dotPeek // dnSpy
+• Windows 10 user
+• visual studio, vscode, cbase
+• obfuscript // dotNet_Reactor
+• idk
+
+## more stuff
 
 ![Pronner's Github Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord)\
 \
