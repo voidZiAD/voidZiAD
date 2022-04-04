@@ -26,6 +26,8 @@ however I've only used C# on github.
 
 ## more stuff
 
+![Pronner's Discord](https://discordapp.com/api/guilds/920891377628356689/widget.png?style=banner4)\
+\
 ![Pronner's Github Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord)\
 \
 [![Pronner's Github Statistics](https://github-readme-stats.vercel.app/api?username=Pronner&theme=radical&show_icons=true)](https://github.com/pronner/github-readme-stats)\
