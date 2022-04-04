@@ -26,7 +26,7 @@ however I've only used C# on github.
 
 ## more stuff
 
-![Pronner's Discord](https://discordapp.com/api/guilds/920891377628356689/widget.png?style=banner4)\
+[![Pronner's Discord Status](https://lanyard.cnrad.dev/api/923172363191873566?theme=dark&animated=true&borderRadius=10px&idleMessage=Coding%20literally%20all%20of%20the%20time.)](https://discord.com/users/753278347697455174)\
 \
 ![Pronner's Github Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord)\
 \
