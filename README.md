@@ -2,7 +2,7 @@
 
 full stack C# && VB dev, front-end back-end.
 
-## languages
+## language
 
 • C#
 • C++
@@ -15,7 +15,7 @@ full stack C# && VB dev, front-end back-end.
 
 however I've only used C# on github.
 
-## tools and stuff
+## tool
 
 • dotPeek // dnSpy
 • Windows 10 user
@@ -24,7 +24,7 @@ however I've only used C# on github.
 • idk
 •
 
-## more stuff
+## idk
 
 [![Pronner's Discord Status](https://lanyard.cnrad.dev/api/753278347697455174?theme=dark&animated=true&borderRadius=10px&idleMessage=Coding%20literally%20all%20the%20time.)](https://discord.com/users/753278347697455174)\
 \
