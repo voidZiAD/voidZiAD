@@ -10,6 +10,7 @@ full stack C# && VB dev, front-end back-end.
 • Python
 • Kotlin
 • HTML
+• JovanaScript (i literally made it)
 • and more 
 •
 
