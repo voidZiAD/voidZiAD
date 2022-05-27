@@ -1,11 +1,11 @@
 ## friendly neighborhood dev
 
-full stack C#, VB, JovanaScript dev, front-end back-end.
+full stack C#, VB, JovanaScript Devloper: front-end back-end.
 
 ## language
 
 • C#
-• C++
+• C++ (bad)
 • VB
 • Python
 • Kotlin
@@ -14,13 +14,13 @@ full stack C#, VB, JovanaScript dev, front-end back-end.
 • and more 
 •
 
-however I've only used C# on github.
+however I've mainly used C# on github.
 
 ## tool
 
-• dotPeek // dnSpy
+• dnSpy
 • Windows 10 user
-• visual studio, vscode, cbase
+• visual studio, vscode, cbase, jovanascript text editor
 • obfuscript // dotNet_Reactor
 • idk
 •
