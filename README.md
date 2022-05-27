@@ -1,6 +1,6 @@
 ## friendly neighborhood dev
 
-full stack C# && VB dev, front-end back-end.
+full stack C#, VB, JovanaScript dev, front-end back-end.
 
 ## language
 
