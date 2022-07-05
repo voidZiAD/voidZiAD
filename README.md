@@ -6,6 +6,7 @@ full stack C#, VB, Near Devloper: front-end back-end.
 
 • C#
 • C++ (bad)
+• JavaScript (bad + never use it)
 • VB
 • Python
 • Kotlin
