@@ -1,32 +1,4 @@
-## friendly neighborhood dev
-
-full stack C#, VB, Near Devloper: front-end back-end.
-
-## language
-
-• C#
-• C++ (bad)
-• JavaScript (bad + never use it)
-• VB
-• Python
-• Kotlin
-• HTML
-• Near (i literally made it)
-• and more 
-•
-
-however I've mainly used C# on github.
-
-## tool
-
-• dnSpy
-• Windows 10 user
-• visual studio, vscode, cbase, near text editor
-• obfuscript // dotNet_Reactor
-• idk
-•
-
-## idk
+average C# and Near enjoyer.
 
 [![Pronner's Discord Status](https://lanyard.cnrad.dev/api/753278347697455174?theme=dark&animated=true&borderRadius=10px&idleMessage=Coding%20literally%20all%20the%20time.)](https://discord.com/users/753278347697455174)\
 \
