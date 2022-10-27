@@ -1,4 +1,4 @@
-I like making software and APIs for software, looking forward to making some games soon.
+I like making software and APIs for software, looking forward to making some games soon. Owner of Infra Technologies, Lead developer of Sensly and Bookish.
 
 [![Pronner's Discord Status](https://lanyard.cnrad.dev/api/753278347697455174?theme=dark&animated=true&borderRadius=10px&idleMessage=Coding%20literally%20all%20the%20time.)](https://discord.com/users/753278347697455174)\
 \
