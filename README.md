@@ -1,5 +1,22 @@
 I like making software and APIs for software, looking forward to making some games soon. Owner of Infra Technologies, Lead developer of Sensly and Bookish.
 
+`enum` I am experienced in `{`
+```csharp
+    C#, // Main
+    VB, // Abandoned
+    Python, // Hardly used by me
+    C++, // For low-level apps
+    JavaScript, // Websites only
+    Lua, // Roblox, but abandoned too
+    GDScript, // Abandoned
+    Bookish, // My own programming language
+    Brainfuck, // ok
+    Kotlin, // just learned it, never used it
+    PHP // Never using it ever again
+```
+`}`
+    
+
 ![image](https://user-images.githubusercontent.com/84229419/201465468-f9960313-31f9-44c8-bb24-840a1465e23e.png)
 
 [![Pronner's Discord Status](https://lanyard.cnrad.dev/api/753278347697455174?theme=dark&animated=true&borderRadius=10px&idleMessage=Coding%20literally%20all%20the%20time.)](https://discord.com/users/753278347697455174)\
