@@ -1,6 +1,6 @@
 I like making software and APIs for software, looking forward to making some games soon. Owner of Infra Technologies, Lead developer of Sensly and Bookish.
 
-`enum` I am experienced in `{`
+`enum` EXPERIENCED_IN `{`
 ```csharp
     C#, // Main
     VB, // Abandoned
