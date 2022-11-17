@@ -11,8 +11,9 @@ I like making software and APIs for software, looking forward to making some gam
     GDScript, // Abandoned
     Bookish, // My own programming language
     Brainfuck, // ok
-    Kotlin, // just learned it, never used it
-    PHP // Never using it ever again
+    Kotlin, // Learned it, never used it
+    PHP, // Never using it ever again
+    GoLang // DragonFly Server Software usage (for Minecraft)
 ```
 `}`
     
