@@ -3,6 +3,7 @@ I like making software and APIs for software, looking forward to making some gam
 `enum` EXPERIENCED_IN `{`
 ```csharp
     C#, // Main
+    Java, // For Mobile Apps
     VB, // Abandoned
     Python, // Hardly used by me
     C++, // For low-level apps
