@@ -1,7 +1,8 @@
 I like making software and APIs for software, looking forward to making some games soon. Owner of Infra Technologies, Lead developer of Sensly and Bookish. If you're looking to skid something from here, you can just leave since most of what I make isn't even open source.
 
 CEO @ **SienaMC, Sensly, Infra Technologies**\
-MANAGER OF **SNS DIGITAL CURRENCY**
+MANAGER OF **SNS DIGITAL CURRENCY**\
+LEAD DEVELOPER & MANAGER OF **WiLBiT .NET Framework**
 
 `enum` EXPERIENCED_IN `{`
 ```csharp
