@@ -5,7 +5,7 @@ I like making software and APIs for software, looking forward to making some gam
 
 CEO @ **SienaMC, Sensly, Infra Technologies**\
 MANAGER OF **SNS DIGITAL CURRENCY**\
-LEAD DEVELOPER & MANAGER OF **WiLBiT .NET Framework, DiscordDB.NET**
+LEAD DEVELOPER & MANAGER OF **WiLBiT .NET Framework, DiscordDB.NET, CSFX**
 
 ![image](https://user-images.githubusercontent.com/84229419/201465468-f9960313-31f9-44c8-bb24-840a1465e23e.png)
 
