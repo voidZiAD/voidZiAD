@@ -4,8 +4,8 @@
 I like making software ja and APIs for software, looking forward to making some games soon. Producer of **Summer Studios L.L.C**, Lead developer of **[discord.gg/createo](https://discord.gg/createo)**. If you're looking to skid something from here, you can just leave since most of what I make isn't even open source.
 
 Producer @ **Summer Studios L.L.C**\
-MANAGER OF **SNS DIGITAL CURRENCY**\
-LEAD DEVELOPER & MANAGER OF **Createo, DiscordDB.NET, CSFX, WinBlur**
+Manager of **SNS DIGITAL CURRENCY**\
+Lead Developer & Manager **Createo, DiscordDB.NET, CSFX, WinBlur**
 
 ![image](https://user-images.githubusercontent.com/84229419/201465468-f9960313-31f9-44c8-bb24-840a1465e23e.png)
 
