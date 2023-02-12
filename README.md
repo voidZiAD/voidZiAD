@@ -1,11 +1,14 @@
+
+![image](https://media.discordapp.net/attachments/1053336913978851340/1053640672453865522/Summer_Studios_Logo8.png?width=300&height=150)
+
 \
 ![](https://komarev.com/ghpvc/?username=Pronner&color=blue&style=flat-square)
 
-I like making software and APIs for software, looking forward to making some games soon. Owner of Infra Technologies, Lead developer of Sensly and Bookish. If you're looking to skid something from here, you can just leave since most of what I make isn't even open source.
+I like making software and APIs for software, looking forward to making some games soon. Producer of **Summer Studios L.L.C**, Lead developer of **[discord.gg/createo](https://discord.gg/createo)**. If you're looking to skid something from here, you can just leave since most of what I make isn't even open source.
 
-CEO @ **SienaMC, Sensly, Infra Technologies**\
+Producer @ **Summer Studios L.L.C**\
 MANAGER OF **SNS DIGITAL CURRENCY**\
-LEAD DEVELOPER & MANAGER OF **WiLBiT .NET Framework, DiscordDB.NET, CSFX**
+LEAD DEVELOPER & MANAGER OF **Createo, DiscordDB.NET, CSFX, WinBlur**
 
 ![image](https://user-images.githubusercontent.com/84229419/201465468-f9960313-31f9-44c8-bb24-840a1465e23e.png)
 
