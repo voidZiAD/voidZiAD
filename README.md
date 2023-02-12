@@ -11,11 +11,11 @@ LEAD DEVELOPER & MANAGER OF **WiLBiT .NET Framework, DiscordDB.NET, CSFX**
 
 `enum` EXPERIENCED_IN `{`
 ```csharp
-    C#, // Main
+    CS, // Main
     Java, // For Mobile Apps
     VB, // Abandoned
     Python, // Hardly used by me
-    C++, // For low-level apps
+    CPP, // For low-level apps
     JavaScript, // Websites only
     Lua, // Roblox, but abandoned too
     GDScript, // Abandoned
