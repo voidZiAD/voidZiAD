@@ -1,10 +1,7 @@
 
 ![image](https://media.discordapp.net/attachments/1053336913978851340/1053640672453865522/Summer_Studios_Logo8.png?width=300&height=150)
 
-\
-![](https://komarev.com/ghpvc/?username=Pronner&color=blue&style=flat-square)
-
-I like making software and APIs for software, looking forward to making some games soon. Producer of **Summer Studios L.L.C**, Lead developer of **[discord.gg/createo](https://discord.gg/createo)**. If you're looking to skid something from here, you can just leave since most of what I make isn't even open source.
+I like making software ja and APIs for software, looking forward to making some games soon. Producer of **Summer Studios L.L.C**, Lead developer of **[discord.gg/createo](https://discord.gg/createo)**. If you're looking to skid something from here, you can just leave since most of what I make isn't even open source.
 
 Producer @ **Summer Studios L.L.C**\
 MANAGER OF **SNS DIGITAL CURRENCY**\
@@ -29,6 +26,9 @@ LEAD DEVELOPER & MANAGER OF **Createo, DiscordDB.NET, CSFX, WinBlur**
     GoLang // DragonFly Server Software usage (for Minecraft)
 ```
 `}`
+
+\
+![](https://komarev.com/ghpvc/?username=Pronner&color=blue&style=flat-square)
 
 ![Pronner'ss GitHub stats](https://github-readme-stats.vercel.app/api?username=Pronner&show_icons=true&theme=radical)  [![Pronner's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pronner&theme=radical&show_icons=true&layout=compact)](https://github.com/Pronner/github-readme-stats)
 
