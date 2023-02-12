@@ -5,7 +5,7 @@ I like making software ja and APIs for software, looking forward to making some 
 
 Producer @ **Summer Studios L.L.C**\
 Manager of **SNS DIGITAL CURRENCY**\
-Lead Developer & Manager **Createo, DiscordDB.NET, CSFX, WinBlur**
+Lead Developer **Createo, DiscordDB.NET, CSFX, WinBlur**
 
 ![image](https://user-images.githubusercontent.com/84229419/201465468-f9960313-31f9-44c8-bb24-840a1465e23e.png)
 
