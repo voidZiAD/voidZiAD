@@ -7,8 +7,6 @@ Producer @ **Summer Studios L.L.C**\
 Manager of **SNS DIGITAL CURRENCY**\
 Lead Developer **Createo, DiscordDB.NET, CSFX, WinBlur**
 
-![image](https://user-images.githubusercontent.com/84229419/201465468-f9960313-31f9-44c8-bb24-840a1465e23e.png)
-
 `enum` EXPERIENCED_IN `{`
 ```csharp
     CS, // Main
@@ -26,8 +24,10 @@ Lead Developer **Createo, DiscordDB.NET, CSFX, WinBlur**
     GoLang // DragonFly Server Software usage (for Minecraft)
 ```
 `}`
-
 \
+\
+![image](https://user-images.githubusercontent.com/84229419/201465468-f9960313-31f9-44c8-bb24-840a1465e23e.png)
+
 ![](https://komarev.com/ghpvc/?username=Pronner&color=blue&style=flat-square)
 
 ![Pronner'ss GitHub stats](https://github-readme-stats.vercel.app/api?username=Pronner&show_icons=true&theme=radical)  [![Pronner's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pronner&theme=radical&show_icons=true&layout=compact)](https://github.com/Pronner/github-readme-stats)
