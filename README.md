@@ -1,7 +1,7 @@
 
 ![image](https://media.discordapp.net/attachments/1053336913978851340/1053640672453865522/Summer_Studios_Logo8.png?width=300&height=150)
 
-I like making software ja and APIs for software, looking forward to making some games soon. Producer @ **Summer Studios L.L.C**, Lead developer of **[discord.gg/createo](https://discord.gg/createo)**. If you're looking to skid something from here, you can just leave since most of what I make isn't even open source.
+I like making software and APIs ja, looking forward to making some games soon. Producer @ **Summer Studios L.L.C**, Lead developer of **[discord.gg/createo](https://discord.gg/createo)**. If you're looking to skid something from here, you can just leave since most of what I make isn't even open source.
 
 Producer @ **Summer Studios L.L.C**\
 Manager of **SNS DIGITAL CURRENCY**\
