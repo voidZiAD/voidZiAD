@@ -1,29 +1,14 @@
 
 ![image](https://media.discordapp.net/attachments/1053336913978851340/1053640672453865522/Summer_Studios_Logo8.png?width=300&height=150)
 
+Your average C# Programmer.
+
 I like making software and APIs ja, also just started with game development. Producer @ **Summer Studios L.L.C**, Lead developer of **[discord.gg/createo](https://discord.gg/createo)**. If you're looking to skid something from here, you can just leave since most of what I make isn't even open source.
 
 Producer @ **Summer Studios L.L.C**\
 Manager of **SNS DIGITAL CURRENCY**\
 Lead Developer **Createo, DiscordDB.NET, CSFX, WinBlur**
 
-`enum` EXPERIENCED_IN `{`
-```csharp
-    CS, // Main
-    Java, // For Mobile Apps
-    VB, // Abandoned
-    Python, // Hardly used by me
-    CPP, // For low-level apps
-    JavaScript, // Websites only
-    Lua, // Roblox, but abandoned too
-    GDScript, // Abandoned
-    Bookish, // My own programming language
-    Brainfuck, // ok
-    Kotlin, // Learned it, never used it
-    PHP, // Never using it ever again
-    GoLang // DragonFly Server Software usage (for Minecraft)
-```
-`}`
 \
 \
 ![image](https://user-images.githubusercontent.com/84229419/201465468-f9960313-31f9-44c8-bb24-840a1465e23e.png)
