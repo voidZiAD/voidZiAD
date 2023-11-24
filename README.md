@@ -1,5 +1,6 @@
 
-![image](https://media.discordapp.net/attachments/1053336913978851340/1053640672453865522/Summer_Studios_Logo8.png?width=300&height=150)
+![RuneBackground](https://github.com/voidZiAD/voidZiAD/assets/84229419/1f95d67b-ee18-437c-98a3-83d4f6cce3b9)
+
 
 There's nothing you need to know about me.
 
