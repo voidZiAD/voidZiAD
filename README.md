@@ -6,9 +6,14 @@ Sometimes it turns into something useful.
 
 ---
 
-### Experience
+### Framework/Language Experience
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,flutter,avaloniaui,cs,dart,java,python,html,css,githubdesktop,visualstudio,vscode,notion,unity,ai" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,flutter,avaloniaui,cs,dart,java,python,html,css" />
+</p>
+
+### IDEs and Tools
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=githubdesktop,visualstudio,vscode,notion,unity,firebase" />
 </p>
 
 **Platforms**
